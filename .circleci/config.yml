@@ -1,0 +1,128 @@
+<html>
+    <head>
+        <meta charset=utf-8>
+        <title>home</title>
+        <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1" />
+        <link href="unsemantic-grid-responsive.css" rel="stylesheet"> 
+        <link href="Estilos%202.css" rel="stylesheet">
+        <link href='https://fonts.google.com/specimen/Noto+Sans' rel='stylesheet'>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
+        <link href="http://127.0.0.1:58190/Rosa%20Projeto/Site%20Home.html">
+        <link href="http://127.0.0.1:58190/Rosa%20Projeto/Site%20Home.html">
+    </head>
+    
+    <body>
+          <img src="RO_Rosa%20Oliveira.jpg" alt="logorosa" style="display: block; margin: auto">
+        
+        <header class="header">
+         <nav class= "menu-topo">
+            <ul>
+                <li> <a href="Sobre.html"> Sobre</a></li>
+                <li> <a href="Projetos.html"> Projetos  </a></li>
+             </ul>
+        </nav>
+        </header>
+        
+    </body>
+    <div class="grid-container "> <!-- A caixa que envolve todo o site -->
+        <header class="grid-100"> <!-- Header é a div que contém o cabeçalho do site; grid-100 quer dizer que vai ocupar 100% da largura do site -->
+            </header>
+    
+
+         <section class="grid-100 grid-parent">
+              <article class="grid-33"><!-- Cada caixa ocupa 1/3 da largura -->
+                
+                <br>
+                <br>
+                <br>
+                  <div class="rosa_oliveira">
+                <h2>Rosa Oliveira</h2></div>
+                <div class="imagem" ><img src="IMG_9867.JPG" width="100%"></div>
+                
+            </article>
+            <article class="grid-33">
+                <br>
+                <br>
+                <br>
+                <div class="sobre_mim">
+                <h2>Sobre mim</h2></div> 
+                <p>Olá eu sou a Rosa, tenho 20 anos e estudo na Universidade de Aveiro na Licenciatura de Design.<br>
+Sou de Santa Maria da Feira, onde cresci e fiz maior parte dos meus estudos, no secundário decidi fazer rumo pelas Artes Visuais, onde fui lecionada por professores incríveis que vieram de áreas como o design.<br>
+Esta cidade tem vindo a abrir-me portas para oportunidades de criar laços com diferentes tipos de pessoas e participar em projetos de diferentes áreas; tais como o Festival Imaginarius
+ onde fui por várias vezes voluntaria e onde tive a oportunidade de trabalhar com grupos e artistas como o Desvio Coletivo, um grupo vindo do Brasil e Guilherme Henriques um artista local com trabalhos internacionais.<br>
+Para além disto tenho vindo completar um sonho de criança de ser treinadora de patinagem artística. Fui atleta federada do Rolar Hóquei Clube de Lourosa, durante quase 15 anos e desde termino da minha carreira como atleta tenho vindo a passar os meus conhecimentos a outras
+ pessoas como treinadora do Clube Académico de Patinagem Artística.<br>
+Foram nestas áreas e nestas aventuras que conheci maior parte das pessoas a quem chamo amigos e que ao longo dos anos me acompanham.
+Considero-me alguém alegre e criativo, organizado e ambicioso, prefiro trabalhar em equipa, pois considero que duas cabeças pensam melhor que uma e que a discussão de temas é um ótimo método para o aperfeiçoamento de projetos.<br>
+Neste site vão encontrar exemplos dos projetos em que já estive inserida, tanto dentro da universidade com fora, espero que goste! </p>
+             
+            </article>
+             
+          
+             <article class="grid-33"><!-- Cada caixa ocupa 1/3 da largura -->
+                <br>
+                <br>
+                <br>
+                  <div class="objetivos">
+                      <h2>Objetivos </h2> </div>
+                 
+                <p>Ambiciono conciliar todos os meus vários interesses ao longo da vida, não deixando nada que me faça sentir incluída, preenchida e feliz para trás.<br> Incorporar aquilo, que aprendo diariamente em cada uma das minhas atividades, na minha vida pessoal e profissional. <br>O objetivo final é viver sem que a vida passe por mim e eu não lhe diga nada.</p>
+                 <div class="educacao">
+                 <h2>Educação</h2></div>
+                 <ul>
+                      <li><b>Educação basica e Secundaria:</b> Escola Secundária de Santa de Santa Maria da Feira</li>
+                      <li><b>Curso de Artes Visuais:</b>Escola Secundária de Santa Maria da Feira</li>
+                      <br>
+                      <li><b>Ensino Superior</b>Universidade de Aveiro</li>
+                      <ul>
+                          <li><b>Curso:</b> Licenciatura em Design 
+                          </li></ul>
+                      <br>
+                      <li> <b> Curso de treinadora de Patinagem Artistica(Nivel1):</b>IPDJ Instituto Português do Desporto e Juventude</li>
+                </ul>
+                 <div class="experiencia">
+                     <h2>Experiencia</h2></div>
+                 <ul>
+                     <li><b>Treinadora de Patinagem Artistica no Clube Academico da Feira:</b> desde 2017 </li></ul>
+                 <div class="habilidades">
+                     <h2>Habilidades </h2></div>
+                 <ul>
+                 <li><b>Design</b></li>
+                     <ul>
+                 <li>photoshop</li>
+                 <li>ilustrator</li>
+                 <li>fusion</li>
+                 </ul>
+                 </ul>
+                 
+                 </article>
+            
+        </section>
+        
+         <footer class="footer">
+            
+         <nav class= "menu-baixo">
+            
+              <ul>  Rosa Oliveira | 2020
+                        <a href="https://www.instagram.com/?hl=pt">
+                            <li class="icones"> <i class="fab fa-instagram alinhado"></i></li>
+                        </a>
+                        <a href="https://www.facebook.com/filipa.ferreira.524381/">
+                            <li class="icones"><i class="fab fa-facebook alinhado"> </i></li>
+                        </a>
+
+                        <a href="mailto:filiparferreira@ua.pt">
+                            <li class="icones"><i class="far fa-envelope alinhado"></i></li>
+                        </a>
+
+                    </ul>
+           
+        </nav>
+             
+        </footer>
+      
+        
+       
+            
+            
+ 
